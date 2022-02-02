@@ -2,9 +2,11 @@
 ##只选一个
 
 ### ---------- 池
-yyds.sh
+bash yyds.sh
+
 git@github.com:okyyds/yyds.git
 
 ### ---------- 纯
-yydspure.sh
+bash yydspure.sh
+
 git@github.com:okyyds/yydspure.git
