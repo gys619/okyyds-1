@@ -4,9 +4,9 @@
 ### ---------- 池
 bash yyds.sh
 
-git@github.com:okyyds/yyds.git
+git@hub.fastgit.xyz:okyyds/okyyds.git
 
 ### ---------- 纯
 bash yydspure.sh
 
-git@github.com:okyyds/yydspure.git
+git@hub.fastgit.xyz:okyyds/okyyds.git
