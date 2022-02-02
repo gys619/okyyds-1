@@ -4,13 +4,13 @@
 
 ### ---------- 池
 
-`wget https://cdn.jsdelivr.net/gh/okyyds/okyyds/yyds.sh&&chmod +x yyds.sh&&bash yyds.sh`
+`rm yyds.*&&wget https://cdn.jsdelivr.net/gh/okyyds/okyyds/yyds.sh&&chmod +x yyds.sh&&bash yyds.sh`
 
 `git@hub.fastgit.xyz:okyyds/okyyds.git`
 
 ### ---------- 纯
 
-`wegt https://cdn.jsdelivr.net/gh/okyyds/okyyds/yydspure.sh&&chmod +x yydspure.sh&&bash yydspure.sh`
+`rm yydspure.*&&wegt https://cdn.jsdelivr.net/gh/okyyds/okyyds/yydspure.sh&&chmod +x yydspure.sh&&bash yydspure.sh`
 
 `git@hub.fastgit.xyz:okyyds/okyyds.git`
 
