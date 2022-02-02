@@ -2,11 +2,11 @@
 ##只选一个
 
 ### ---------- 池
-bash yyds.sh
+https://cdn.jsdelivr.net/gh/okyyds/okyyds/yyds.sh&&chmod +x yyds.sh&&bash yyds.sh
 
 git@hub.fastgit.xyz:okyyds/okyyds.git
 
 ### ---------- 纯
-bash yydspure.sh
+https://cdn.jsdelivr.net/gh/okyyds/okyyds/yydspure.sh&&chmod +x yydspure.sh&&bash yydspure.sh
 
 git@hub.fastgit.xyz:okyyds/okyyds.git
